@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="295.0" prefWidth="374.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fjp.customerController">
+   <left>
+      <VBox alignment="CENTER" spacing="20.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="add_btn_2" mnemonicParsing="false" onAction="#add_btn_action_2" prefHeight="25.0" prefWidth="106.0" stylesheets="@style.css" text="add" />
+            <Button fx:id="take_btn_2" mnemonicParsing="false" onAction="#take_btn_action_2" prefHeight="25.0" prefWidth="106.0" stylesheets="@style.css" text="take" />
+         </children>
+         <padding>
+            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+         </padding>
+      </VBox>
+   </left>
+   <center>
+      <VBox alignment="CENTER" prefHeight="251.0" prefWidth="415.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label alignment="CENTER" text="My safes">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font></Label>
+            <TableView fx:id="cus_table_safe">
+              <columns>
+                <TableColumn fx:id="locknum_col_2" prefWidth="98.0" text="lock number" />
+                <TableColumn fx:id="contain_col_2" prefWidth="169.0" text="contain" />
+              </columns>
+            </TableView>
+         </children>
+      </VBox>
+   </center>
+   <top>
+      <VBox alignment="CENTER" BorderPane.alignment="CENTER">
+         <children>
+            <Label fx:id="title_label_2" prefHeight="32.0" prefWidth="47.0" stylesheets="@style.css" text="welcom :" />
+            <HBox>
+               <children>
+                  <ComboBox fx:id="locknum_combob" prefHeight="25.0" prefWidth="163.0" />
+                  <TextField fx:id="contain_tf_2" prefHeight="25.0" prefWidth="210.0" promptText="contan name" stylesheets="@style.css" />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </top>
+   <bottom>
+      <Button fx:id="back" mnemonicParsing="false" onAction="#back_tn_action" text="logout" BorderPane.alignment="CENTER" />
+   </bottom>
+</BorderPane>

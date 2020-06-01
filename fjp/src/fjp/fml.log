@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-06-01T16:13:33</date>
+  <millis>1591028013102</millis>
+  <sequence>0</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>initialize</method>
+  <thread>13</thread>
+  <message>the program start </message>
+</record>
+<record>
+  <date>2020-06-01T16:13:33</date>
+  <millis>1591028013659</millis>
+  <sequence>1</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-06-01T16:13:33</date>
+  <millis>1591028013660</millis>
+  <sequence>2</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-06-01T16:13:33</date>
+  <millis>1591028013662</millis>
+  <sequence>3</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-06-01T16:13:33</date>
+  <millis>1591028013664</millis>
+  <sequence>4</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-06-01T16:13:33</date>
+  <millis>1591028013666</millis>
+  <sequence>5</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-06-01T16:13:33</date>
+  <millis>1591028013668</millis>
+  <sequence>6</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-06-01T16:13:33</date>
+  <millis>1591028013693</millis>
+  <sequence>7</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-06-01T16:13:33</date>
+  <millis>1591028013694</millis>
+  <sequence>8</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-06-01T16:13:33</date>
+  <millis>1591028013696</millis>
+  <sequence>9</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-06-01T16:13:38</date>
+  <millis>1591028018057</millis>
+  <sequence>10</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-06-01T16:13:38</date>
+  <millis>1591028018058</millis>
+  <sequence>11</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-06-01T16:13:38</date>
+  <millis>1591028018059</millis>
+  <sequence>12</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+</log>

@@ -1,0 +1,2248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-05-31T08:30:33</date>
+  <millis>1590913833591</millis>
+  <sequence>0</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>initialize</method>
+  <thread>13</thread>
+  <message>the program start </message>
+</record>
+<record>
+  <date>2020-05-31T08:30:33</date>
+  <millis>1590913833925</millis>
+  <sequence>1</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:30:33</date>
+  <millis>1590913833926</millis>
+  <sequence>2</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:30:33</date>
+  <millis>1590913833927</millis>
+  <sequence>3</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:30:33</date>
+  <millis>1590913833928</millis>
+  <sequence>4</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:30:33</date>
+  <millis>1590913833930</millis>
+  <sequence>5</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:30:33</date>
+  <millis>1590913833932</millis>
+  <sequence>6</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:30:33</date>
+  <millis>1590913833933</millis>
+  <sequence>7</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:30:33</date>
+  <millis>1590913833934</millis>
+  <sequence>8</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:30:38</date>
+  <millis>1590913838779</millis>
+  <sequence>9</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:30:38</date>
+  <millis>1590913838780</millis>
+  <sequence>10</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:30:38</date>
+  <millis>1590913838781</millis>
+  <sequence>11</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:30:38</date>
+  <millis>1590913838782</millis>
+  <sequence>12</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:13</date>
+  <millis>1590913873716</millis>
+  <sequence>13</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:13</date>
+  <millis>1590913873718</millis>
+  <sequence>14</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:13</date>
+  <millis>1590913873719</millis>
+  <sequence>15</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:13</date>
+  <millis>1590913873719</millis>
+  <sequence>16</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:13</date>
+  <millis>1590913873721</millis>
+  <sequence>17</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:13</date>
+  <millis>1590913873724</millis>
+  <sequence>18</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:13</date>
+  <millis>1590913873725</millis>
+  <sequence>19</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:13</date>
+  <millis>1590913873726</millis>
+  <sequence>20</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:13</date>
+  <millis>1590913873727</millis>
+  <sequence>21</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:13</date>
+  <millis>1590913873727</millis>
+  <sequence>22</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:15</date>
+  <millis>1590913875077</millis>
+  <sequence>23</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:15</date>
+  <millis>1590913875078</millis>
+  <sequence>24</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:15</date>
+  <millis>1590913875079</millis>
+  <sequence>25</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:15</date>
+  <millis>1590913875080</millis>
+  <sequence>26</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:15</date>
+  <millis>1590913875080</millis>
+  <sequence>27</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:32</date>
+  <millis>1590913892061</millis>
+  <sequence>28</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:32</date>
+  <millis>1590913892062</millis>
+  <sequence>29</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:32</date>
+  <millis>1590913892063</millis>
+  <sequence>30</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:32</date>
+  <millis>1590913892064</millis>
+  <sequence>31</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:32</date>
+  <millis>1590913892065</millis>
+  <sequence>32</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:32</date>
+  <millis>1590913892068</millis>
+  <sequence>33</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:32</date>
+  <millis>1590913892069</millis>
+  <sequence>34</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:32</date>
+  <millis>1590913892070</millis>
+  <sequence>35</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:32</date>
+  <millis>1590913892071</millis>
+  <sequence>36</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:32</date>
+  <millis>1590913892072</millis>
+  <sequence>37</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:33</date>
+  <millis>1590913893771</millis>
+  <sequence>38</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:33</date>
+  <millis>1590913893772</millis>
+  <sequence>39</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:33</date>
+  <millis>1590913893773</millis>
+  <sequence>40</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:33</date>
+  <millis>1590913893774</millis>
+  <sequence>41</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:33</date>
+  <millis>1590913893774</millis>
+  <sequence>42</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:41</date>
+  <millis>1590913901535</millis>
+  <sequence>43</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:41</date>
+  <millis>1590913901537</millis>
+  <sequence>44</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:41</date>
+  <millis>1590913901537</millis>
+  <sequence>45</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:41</date>
+  <millis>1590913901538</millis>
+  <sequence>46</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:41</date>
+  <millis>1590913901540</millis>
+  <sequence>47</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:41</date>
+  <millis>1590913901540</millis>
+  <sequence>48</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:41</date>
+  <millis>1590913901541</millis>
+  <sequence>49</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:41</date>
+  <millis>1590913901542</millis>
+  <sequence>50</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:41</date>
+  <millis>1590913901544</millis>
+  <sequence>51</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:41</date>
+  <millis>1590913901547</millis>
+  <sequence>52</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:41</date>
+  <millis>1590913901548</millis>
+  <sequence>53</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:41</date>
+  <millis>1590913901549</millis>
+  <sequence>54</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:41</date>
+  <millis>1590913901549</millis>
+  <sequence>55</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:49</date>
+  <millis>1590913909285</millis>
+  <sequence>56</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:49</date>
+  <millis>1590913909285</millis>
+  <sequence>57</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:49</date>
+  <millis>1590913909286</millis>
+  <sequence>58</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:49</date>
+  <millis>1590913909286</millis>
+  <sequence>59</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:54</date>
+  <millis>1590913914138</millis>
+  <sequence>60</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:54</date>
+  <millis>1590913914139</millis>
+  <sequence>61</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:54</date>
+  <millis>1590913914139</millis>
+  <sequence>62</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:54</date>
+  <millis>1590913914140</millis>
+  <sequence>63</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:54</date>
+  <millis>1590913914141</millis>
+  <sequence>64</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:54</date>
+  <millis>1590913914142</millis>
+  <sequence>65</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:54</date>
+  <millis>1590913914143</millis>
+  <sequence>66</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:54</date>
+  <millis>1590913914144</millis>
+  <sequence>67</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:31:54</date>
+  <millis>1590913914145</millis>
+  <sequence>68</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:02</date>
+  <millis>1590913922950</millis>
+  <sequence>69</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:02</date>
+  <millis>1590913922953</millis>
+  <sequence>70</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:02</date>
+  <millis>1590913922953</millis>
+  <sequence>71</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:02</date>
+  <millis>1590913922955</millis>
+  <sequence>72</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:02</date>
+  <millis>1590913922957</millis>
+  <sequence>73</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:02</date>
+  <millis>1590913922958</millis>
+  <sequence>74</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:02</date>
+  <millis>1590913922959</millis>
+  <sequence>75</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:06</date>
+  <millis>1590913926637</millis>
+  <sequence>76</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:06</date>
+  <millis>1590913926638</millis>
+  <sequence>77</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:06</date>
+  <millis>1590913926639</millis>
+  <sequence>78</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:06</date>
+  <millis>1590913926639</millis>
+  <sequence>79</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:06</date>
+  <millis>1590913926640</millis>
+  <sequence>80</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:06</date>
+  <millis>1590913926643</millis>
+  <sequence>81</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:06</date>
+  <millis>1590913926643</millis>
+  <sequence>82</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:06</date>
+  <millis>1590913926643</millis>
+  <sequence>83</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:08</date>
+  <millis>1590913928546</millis>
+  <sequence>84</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:08</date>
+  <millis>1590913928547</millis>
+  <sequence>85</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:08</date>
+  <millis>1590913928547</millis>
+  <sequence>86</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:08</date>
+  <millis>1590913928548</millis>
+  <sequence>87</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:08</date>
+  <millis>1590913928549</millis>
+  <sequence>88</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:08</date>
+  <millis>1590913928549</millis>
+  <sequence>89</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:08</date>
+  <millis>1590913928551</millis>
+  <sequence>90</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:08</date>
+  <millis>1590913928551</millis>
+  <sequence>91</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:08</date>
+  <millis>1590913928552</millis>
+  <sequence>92</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:10</date>
+  <millis>1590913930679</millis>
+  <sequence>93</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:10</date>
+  <millis>1590913930679</millis>
+  <sequence>94</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:10</date>
+  <millis>1590913930680</millis>
+  <sequence>95</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:10</date>
+  <millis>1590913930680</millis>
+  <sequence>96</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:10</date>
+  <millis>1590913930682</millis>
+  <sequence>97</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:10</date>
+  <millis>1590913930682</millis>
+  <sequence>98</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:10</date>
+  <millis>1590913930682</millis>
+  <sequence>99</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:10</date>
+  <millis>1590913930684</millis>
+  <sequence>100</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:10</date>
+  <millis>1590913930684</millis>
+  <sequence>101</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:10</date>
+  <millis>1590913930686</millis>
+  <sequence>102</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:11</date>
+  <millis>1590913931865</millis>
+  <sequence>103</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:11</date>
+  <millis>1590913931866</millis>
+  <sequence>104</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:11</date>
+  <millis>1590913931866</millis>
+  <sequence>105</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:18</date>
+  <millis>1590913938150</millis>
+  <sequence>106</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:18</date>
+  <millis>1590913938150</millis>
+  <sequence>107</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:18</date>
+  <millis>1590913938151</millis>
+  <sequence>108</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:18</date>
+  <millis>1590913938151</millis>
+  <sequence>109</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:18</date>
+  <millis>1590913938151</millis>
+  <sequence>110</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:18</date>
+  <millis>1590913938153</millis>
+  <sequence>111</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:18</date>
+  <millis>1590913938153</millis>
+  <sequence>112</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:18</date>
+  <millis>1590913938154</millis>
+  <sequence>113</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:18</date>
+  <millis>1590913938155</millis>
+  <sequence>114</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:18</date>
+  <millis>1590913938155</millis>
+  <sequence>115</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:18</date>
+  <millis>1590913938156</millis>
+  <sequence>116</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:19</date>
+  <millis>1590913939308</millis>
+  <sequence>117</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:19</date>
+  <millis>1590913939308</millis>
+  <sequence>118</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:19</date>
+  <millis>1590913939308</millis>
+  <sequence>119</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:23</date>
+  <millis>1590913943751</millis>
+  <sequence>120</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:23</date>
+  <millis>1590913943751</millis>
+  <sequence>121</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:23</date>
+  <millis>1590913943752</millis>
+  <sequence>122</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:23</date>
+  <millis>1590913943752</millis>
+  <sequence>123</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:23</date>
+  <millis>1590913943752</millis>
+  <sequence>124</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:23</date>
+  <millis>1590913943753</millis>
+  <sequence>125</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:23</date>
+  <millis>1590913943754</millis>
+  <sequence>126</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:23</date>
+  <millis>1590913943755</millis>
+  <sequence>127</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:23</date>
+  <millis>1590913943756</millis>
+  <sequence>128</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:23</date>
+  <millis>1590913943758</millis>
+  <sequence>129</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:23</date>
+  <millis>1590913943758</millis>
+  <sequence>130</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:23</date>
+  <millis>1590913943759</millis>
+  <sequence>131</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:25</date>
+  <millis>1590913945678</millis>
+  <sequence>132</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:25</date>
+  <millis>1590913945678</millis>
+  <sequence>133</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:25</date>
+  <millis>1590913945678</millis>
+  <sequence>134</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:25</date>
+  <millis>1590913945678</millis>
+  <sequence>135</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:25</date>
+  <millis>1590913945678</millis>
+  <sequence>136</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:25</date>
+  <millis>1590913945679</millis>
+  <sequence>137</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:25</date>
+  <millis>1590913945679</millis>
+  <sequence>138</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:25</date>
+  <millis>1590913945680</millis>
+  <sequence>139</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:25</date>
+  <millis>1590913945682</millis>
+  <sequence>140</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:25</date>
+  <millis>1590913945682</millis>
+  <sequence>141</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:25</date>
+  <millis>1590913945684</millis>
+  <sequence>142</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:25</date>
+  <millis>1590913945684</millis>
+  <sequence>143</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:25</date>
+  <millis>1590913945684</millis>
+  <sequence>144</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:27</date>
+  <millis>1590913947011</millis>
+  <sequence>145</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:27</date>
+  <millis>1590913947012</millis>
+  <sequence>146</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:27</date>
+  <millis>1590913947012</millis>
+  <sequence>147</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:32</date>
+  <millis>1590913952145</millis>
+  <sequence>148</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:32</date>
+  <millis>1590913952146</millis>
+  <sequence>149</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:32</date>
+  <millis>1590913952146</millis>
+  <sequence>150</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:32</date>
+  <millis>1590913952147</millis>
+  <sequence>151</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:32</date>
+  <millis>1590913952147</millis>
+  <sequence>152</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:32</date>
+  <millis>1590913952147</millis>
+  <sequence>153</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:32</date>
+  <millis>1590913952148</millis>
+  <sequence>154</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:32</date>
+  <millis>1590913952149</millis>
+  <sequence>155</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:32</date>
+  <millis>1590913952149</millis>
+  <sequence>156</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:32</date>
+  <millis>1590913952150</millis>
+  <sequence>157</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:32</date>
+  <millis>1590913952151</millis>
+  <sequence>158</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:32</date>
+  <millis>1590913952151</millis>
+  <sequence>159</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:33</date>
+  <millis>1590913953763</millis>
+  <sequence>160</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:33</date>
+  <millis>1590913953764</millis>
+  <sequence>161</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:33</date>
+  <millis>1590913953764</millis>
+  <sequence>162</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_cus</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:36</date>
+  <millis>1590913956902</millis>
+  <sequence>163</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>initialize</method>
+  <thread>13</thread>
+  <message>the program start </message>
+</record>
+<record>
+  <date>2020-05-31T08:32:36</date>
+  <millis>1590913956911</millis>
+  <sequence>164</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>combos</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:36</date>
+  <millis>1590913956912</millis>
+  <sequence>165</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>combos</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:36</date>
+  <millis>1590913956912</millis>
+  <sequence>166</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>combos</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:36</date>
+  <millis>1590913956913</millis>
+  <sequence>167</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>combos</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:36</date>
+  <millis>1590913956914</millis>
+  <sequence>168</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>combos</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:36</date>
+  <millis>1590913956914</millis>
+  <sequence>169</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>combos</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:36</date>
+  <millis>1590913956915</millis>
+  <sequence>170</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:36</date>
+  <millis>1590913956916</millis>
+  <sequence>171</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:36</date>
+  <millis>1590913956917</millis>
+  <sequence>172</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:36</date>
+  <millis>1590913956917</millis>
+  <sequence>173</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:36</date>
+  <millis>1590913956918</millis>
+  <sequence>174</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:36</date>
+  <millis>1590913956918</millis>
+  <sequence>175</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:54</date>
+  <millis>1590913974337</millis>
+  <sequence>176</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:54</date>
+  <millis>1590913974337</millis>
+  <sequence>177</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:54</date>
+  <millis>1590913974338</millis>
+  <sequence>178</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:54</date>
+  <millis>1590913974338</millis>
+  <sequence>179</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:54</date>
+  <millis>1590913974338</millis>
+  <sequence>180</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:32:54</date>
+  <millis>1590913974339</millis>
+  <sequence>181</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:09</date>
+  <millis>1590913989286</millis>
+  <sequence>182</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:09</date>
+  <millis>1590913989287</millis>
+  <sequence>183</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:09</date>
+  <millis>1590913989287</millis>
+  <sequence>184</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:09</date>
+  <millis>1590913989287</millis>
+  <sequence>185</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:09</date>
+  <millis>1590913989287</millis>
+  <sequence>186</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:09</date>
+  <millis>1590913989287</millis>
+  <sequence>187</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:21</date>
+  <millis>1590914001952</millis>
+  <sequence>188</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:21</date>
+  <millis>1590914001952</millis>
+  <sequence>189</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:21</date>
+  <millis>1590914001952</millis>
+  <sequence>190</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:21</date>
+  <millis>1590914001952</millis>
+  <sequence>191</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:21</date>
+  <millis>1590914001953</millis>
+  <sequence>192</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:21</date>
+  <millis>1590914001953</millis>
+  <sequence>193</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.customerController</class>
+  <method>show_safes1</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:25</date>
+  <millis>1590914005704</millis>
+  <sequence>194</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>initialize</method>
+  <thread>13</thread>
+  <message>the program start </message>
+</record>
+<record>
+  <date>2020-05-31T08:33:25</date>
+  <millis>1590914005710</millis>
+  <sequence>195</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:25</date>
+  <millis>1590914005710</millis>
+  <sequence>196</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:25</date>
+  <millis>1590914005711</millis>
+  <sequence>197</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:25</date>
+  <millis>1590914005711</millis>
+  <sequence>198</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:25</date>
+  <millis>1590914005713</millis>
+  <sequence>199</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:25</date>
+  <millis>1590914005713</millis>
+  <sequence>200</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>show_safes</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:25</date>
+  <millis>1590914005715</millis>
+  <sequence>201</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:25</date>
+  <millis>1590914005715</millis>
+  <sequence>202</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+<record>
+  <date>2020-05-31T08:33:25</date>
+  <millis>1590914005716</millis>
+  <sequence>203</sequence>
+  <logger>fjp.Fjp</logger>
+  <level>INFO</level>
+  <class>fjp.EmpController</class>
+  <method>combo</method>
+  <thread>13</thread>
+  <message>c</message>
+</record>
+</log>

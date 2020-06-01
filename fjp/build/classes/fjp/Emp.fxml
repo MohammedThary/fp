@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane fx:id="main_pane" minHeight="-Infinity" minWidth="-Infinity" prefHeight="486.0" prefWidth="1148.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fjp.EmpController">
+   <left>
+      <VBox alignment="CENTER" maxHeight="-Infinity" spacing="10.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button id="#btn" fx:id="show_btn" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" onAction="#show_btn_action" prefHeight="32.0" prefWidth="101.0" stylesheets="@style.css" text="Show cus table" />
+            <Button id="#btn" fx:id="add_btn" alignment="CENTER" contentDisplay="CENTER" layoutX="20.0" layoutY="196.0" mnemonicParsing="false" onAction="#add_btn_action" prefHeight="32.0" prefWidth="101.0" stylesheets="@style.css" text="Add customer" />
+            <Button id="#btn" fx:id="update_btn" alignment="CENTER" contentDisplay="CENTER" layoutX="20.0" layoutY="217.0" mnemonicParsing="false" onAction="#update_btn_action" prefHeight="32.0" prefWidth="101.0" stylesheets="@style.css" text="Update cus" />
+            <Button id="#btn" fx:id="delete_btn" alignment="CENTER" contentDisplay="CENTER" layoutX="20.0" layoutY="238.0" mnemonicParsing="false" onAction="#delete_btn_action" prefHeight="32.0" prefWidth="101.0" stylesheets="@style.css" text="Delete cus" />
+         </children>
+         <BorderPane.margin>
+            <Insets />
+         </BorderPane.margin>
+         <padding>
+            <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+         </padding>
+      </VBox>
+   </left>
+   <padding>
+      <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+   </padding>
+   <center>
+      <VBox prefHeight="278.0" prefWidth="832.0" BorderPane.alignment="CENTER">
+         <children>
+            <HBox alignment="CENTER" spacing="150.0">
+               <children>
+                  <Region layoutX="556.0" layoutY="20.0" maxWidth="-Infinity" prefHeight="19.0" prefWidth="16.0" />
+                  <Label id="#label" alignment="CENTER" prefHeight="17.0" prefWidth="113.0" stylesheets="@style.css" text="customer">
+                     <HBox.margin>
+                        <Insets left="150.0" />
+                     </HBox.margin></Label>
+                  <Region maxWidth="-Infinity" prefHeight="19.0" prefWidth="27.0" HBox.hgrow="ALWAYS" />
+                  <Label id="#label" alignment="CENTER" layoutX="449.0" layoutY="20.0" prefHeight="17.0" prefWidth="101.0" stylesheets="@style.css" text="safes">
+                     <HBox.margin>
+                        <Insets left="100.0" right="70.0" />
+                     </HBox.margin></Label>
+               </children>
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="284.0" prefWidth="1000.0" spacing="10.0">
+               <children>
+                  <TableView fx:id="customer_table" prefHeight="264.0" prefWidth="737.0" stylesheets="@style.css">
+                    <columns>
+                      <TableColumn fx:id="cus_id_col" prefWidth="64.0" text="ID" />
+                        <TableColumn fx:id="cus_name_col" prefWidth="78.0" text="Name" />
+                        <TableColumn fx:id="cus_pass_col" prefWidth="71.0" text="password" />
+                        <TableColumn fx:id="cus_phone_col" prefWidth="57.0" text="phone" />
+                        <TableColumn fx:id="cus_email_col" prefWidth="164.0" text="email" />
+                        <TableColumn fx:id="cus_gender_col" prefWidth="54.0" text="gender" />
+                        <TableColumn fx:id="cus_adress_col" prefWidth="164.0" text="adress" />
+                        <TableColumn fx:id="cus_num_of_safe_col" prefWidth="79.0" text="num of safes" />
+                    </columns>
+                  </TableView>
+                  <Region layoutX="274.0" layoutY="10.0" prefHeight="241.0" prefWidth="90.0" />
+                  <TableView fx:id="safes_table" layoutX="346.0" layoutY="10.0" prefHeight="264.0" prefWidth="156.0" stylesheets="@style.css">
+                     <columns>
+                        <TableColumn fx:id="customer_id_col" prefWidth="57.0" text="cus_id" />
+                        <TableColumn fx:id="lock_number_col" prefWidth="97.0" text="lock_num" />
+                     </columns>
+                  </TableView>
+               </children>
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+            </HBox>
+         </children>
+      </VBox>
+   </center>
+   <top>
+      <VBox BorderPane.alignment="CENTER">
+         <children>
+            <HBox id="#top_hbox" alignment="CENTER" spacing="10.0" stylesheets="@style.css">
+               <children>
+                  <Label id="#label" alignment="CENTER" prefHeight="17.0" prefWidth="36.0" stylesheets="@style.css" text="ID" />
+                  <TextField id="#tef" fx:id="id_tf" stylesheets="@style.css" />
+                  <Label id="#label" alignment="CENTER" layoutX="10.0" layoutY="10.0" prefHeight="17.0" prefWidth="85.0" stylesheets="@style.css" text="Name" />
+                  <TextField id="#tef" fx:id="name_tf" layoutX="22.0" layoutY="10.0" stylesheets="@style.css" />
+                  <Label id="#label" alignment="CENTER" layoutX="171.0" layoutY="10.0" prefHeight="17.0" prefWidth="75.0" stylesheets="@style.css" text="password" />
+                  <TextField id="#tef" fx:id="password_tf" layoutX="183.0" layoutY="10.0" stylesheets="@style.css" />
+                  <Label id="#label" alignment="CENTER" layoutX="332.0" layoutY="10.0" prefHeight="17.0" prefWidth="67.0" stylesheets="@style.css" text="phone" />
+                  <TextField id="#tef" fx:id="phone_tf" layoutX="344.0" layoutY="10.0" stylesheets="@style.css" />
+               </children>
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+            </HBox>
+            <HBox id="#top_hbox" alignment="CENTER" spacing="10.0" stylesheets="@style.css">
+               <children>
+                  <Label id="#label" alignment="CENTER" prefHeight="17.0" prefWidth="36.0" stylesheets="@style.css" text="email" />
+                  <TextField id="#tef" fx:id="email_tf" stylesheets="@style.css" />
+                  <Label id="#label" alignment="CENTER" layoutX="10.0" layoutY="10.0" prefHeight="17.0" prefWidth="85.0" stylesheets="@style.css" text="gender" />
+                  <TextField id="#tef" fx:id="gender_tf" layoutX="22.0" layoutY="10.0" stylesheets="@style.css" />
+                  <Label id="#label" alignment="CENTER" layoutX="171.0" layoutY="10.0" prefHeight="17.0" prefWidth="75.0" stylesheets="@style.css" text="adress" />
+                  <TextField id="#tef" fx:id="adress_tf" layoutX="183.0" layoutY="10.0" stylesheets="@style.css" />
+               </children>
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+            </HBox>
+         </children>
+      </VBox>
+   </top>
+   <bottom>
+      <VBox alignment="CENTER" BorderPane.alignment="CENTER">
+         <children>
+            <HBox id="#top_hbox" alignment="CENTER" spacing="10.0" stylesheets="@style.css">
+               <children>
+                  <Label id="#label" alignment="CENTER" layoutX="10.0" layoutY="10.0" prefHeight="17.0" prefWidth="85.0" stylesheets="@style.css" text="customer_id" />
+                  <ComboBox fx:id="Cid_combob" prefWidth="150.0" />
+                  <Button id="#btn" fx:id="add_safe_btn" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" onAction="#add_safe_btn_action" prefHeight="32.0" prefWidth="101.0" stylesheets="@style.css" text="Add new safe" />
+                  <Button id="#btn" fx:id="delete_safe_btn" alignment="CENTER" contentDisplay="CENTER" layoutX="905.0" layoutY="20.0" mnemonicParsing="false" onAction="#delete_safe_btn_action" prefHeight="32.0" prefWidth="101.0" stylesheets="@style.css" text="Delete" />
+               </children>
+               <padding>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </padding>
+            </HBox>
+            <Button fx:id="logout_emp" mnemonicParsing="false" onAction="#log_out_btn_action" text="logout" />
+         </children>
+      </VBox>
+   </bottom>
+</BorderPane>
